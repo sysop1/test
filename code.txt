@@ -1,1 +1,3 @@
 To jest test
+
+Dodano przez mastera
